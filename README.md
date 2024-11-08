@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!, I'm Joshua Christian</h1>
+<h1 align="center">Hi there! I'm Joshua Christian</h1>
 <h3 align="center">A Fullstack Developer and an Instructor </h3>
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/)
