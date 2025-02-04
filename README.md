@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Javascript, Typescript, REST API, Postgresql, React, etc**
+- 💬 Ask me about **Javascript, Typescript, REST API, GraphQL, MongoDB, Postgresql, React, etc**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshua-christian-jc15/)
 
