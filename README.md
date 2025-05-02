@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/)
 
-- 🌱 I’m currently learning **NextJs**
-
-- 💬 Ask me about **Javascript, Typescript, REST API, GraphQL, MongoDB, Postgresql, React, etc**
+- 💬 Ask me about **Javascript, Typescript, REST API, GraphQL, MongoDB, Postgresql, React, NextJS, Vue etc**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshua-christian-jc15/)
 
